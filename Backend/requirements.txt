@@ -1,0 +1,10 @@
+google-genai
+fastapi
+uvicorn[standard]
+python-dotenv
+pymongo
+motor 
+pydantic
+email-validator
+python-multipart 
+pytz
